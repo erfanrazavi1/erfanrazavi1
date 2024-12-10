@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 <h3 align="center">A passionate problem solver and creative Django developer, dreaming big and coding with purpose 🚀</h3>
 
-<iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
 
 - 🌱 Currently honing my Django skills while aspiring to dive into the world of IoT (Internet of Things) **Django frameworks**
 
