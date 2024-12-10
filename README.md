@@ -12,6 +12,8 @@
 - 📬 You can reach me via email **erfan6235@gmail.com**
 
 - ⚡ Fun fact **I'm the kind of person who’s always looking to learn something new! 🤓 Whether it’s coding, cooking a new recipe, or figuring out how to teach my plants to grow faster! 🌱💻 I love exploring all kinds of things, because who doesn't want to be a coding expert *and* a pancake-flipping pro at the same time? 🥞✨**
+
+.
 ![hippo](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=790b7611n94e3feyqt6h9mrugqqtqm5yqfgiyo0nmt9xpkob&ep=v1_gifs_search&rid=giphy.gif&ct=gf)
 
 <h3 align="left">Connect with me:</h3>
