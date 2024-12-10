@@ -1,9 +1,11 @@
+![logo](https://github.com/erfanrazavi/erfanrazavi_/blob/main/1.jfif)
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 <h3 align="center">A passionate problem solver and creative Django developer, dreaming big and coding with purpose 🚀</h3>
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=erfanrazavi&label=Profile%20views&color=0e75b6&style=flat" alt="erfanrazavi" /> </p>
-
-<img align='right' alt="erfan" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FpNDg4MXY5ZHA1azFrNDVlenFvcjZnbWM0bmt4dW90NjRwdDBwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
+<p align="right">
+<img alt="erfan" width="100" src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif?cid=790b7611vcmx86mrd5z4yot3ajh084ob70pjlzfzg454nx1a&ep=v1_stickers_search&rid=giphy.gif" >
+</p>
 
 - 🌱 Currently honing my Django skills while aspiring to dive into the world of IoT (Internet of Things) **Django frameworks**
 
@@ -12,6 +14,13 @@
 - 📬 You can reach me via email **erfan6235@gmail.com**
 
 - ⚡ Fun fact **I'm the kind of person who’s always looking to learn something new! 🤓 Whether it’s coding, cooking a new recipe, or figuring out how to teach my plants to grow faster! 🌱💻 I love exploring all kinds of things, because who doesn't want to be a coding expert *and* a pancake-flipping pro at the same time? 🥞✨**
+
+
+<p>
+<img  align="left" alt="erfan" width="100" src="https://media.giphy.com/media/xcJZIKw5lVp5WCLz0K/giphy.gif?cid=790b76114xpj9vugnmik5ddl5ixfkd5dcssjj1z9zc9nnio0&ep=v1_stickers_search&rid=giphy.gif&ct=s" >
+<img  align="right" alt="erfan" width="100" src="https://media.giphy.com/media/wdstc5jhafw2FvBOd1/giphy.gif?cid=ecf05e47poxshrqgwq6yy7c0hl9jb3yc956wx6ldzrb9ysxe&ep=v1_stickers_search&rid=giphy.gif" ><br>
+</p></br></br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
