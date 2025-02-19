@@ -35,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erfanrazavi&show_icons=true&locale=en&layout=compact" alt="erfanrazavi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erfanrazavi&show_icons=true&locale=en" alt="erfanrazavi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erfanrazavi&" alt="erfanrazavi" /></p>
