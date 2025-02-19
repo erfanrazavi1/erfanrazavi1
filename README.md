@@ -1,4 +1,3 @@
-![logo](https://github.com/erfanrazavi/erfanrazavi_/blob/main/1.jfif)
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 <h3 align="center">A passionate problem solver and creative Django developer, dreaming big and coding with purpose 🚀</h3>
 
